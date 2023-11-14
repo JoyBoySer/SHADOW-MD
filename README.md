@@ -39,22 +39,25 @@
  
  
 - Install [External Plugins](https://github.com/SuhailTechInfo/Secktor-Plugins)
+-
 ## Deployment Methods
 ---
 1. ***Get [`SESSION-ID`](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+ 
 2.  ***Get a Mongodb uri from [`Mongodb`](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [`Tutorial`](https://youtu.be/6rnftFl0fAI).***
+  
 3.  ***Click [`FORK`](https://github.com/SamPandey001/Secktor-MD/fork)***
+ 
 4.  ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Secktor-bot)***
+ 
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-##
-
-
 
 - Star ⭐ repo if you like this bot.
+- 
 ### Thanks To
 
 - [Sam Pamday](https://github.com/Sampanda001) for Ideas
 
 ## License
 
-The Secktor is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
+The Dark Angel is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
