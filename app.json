@@ -1,8 +1,8 @@
 {
   "name": "ᴊᴏʏ ʙᴏʏ ꜱᴇʀ",
   "description": "ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴅᴇʟᴛᴀ ʙᴏᴛ",
-  "logo": "https://telegra.ph/file/75a10626d43827b137e70.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device"],
+  "logo": "https://telegra.ph/file/aadc390f35860b626ac38.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "DELTA-MD", "Delta","Delta-Md","theme bot","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -17,7 +17,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://i.imgur.com/NpA3ZsJ.jpeg"
+     "value": "https://telegra.ph/file/aadc390f35860b626ac38.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -75,7 +75,7 @@
      "value": ""
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+    "description": "Put the theme name you want to use. Avilable themes are DELTA,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
      "value": "LUFFY"
   },
     "WORKTYPE": {
@@ -89,7 +89,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "; JOY BOY SER wa.me/+919714504817 ♪☃︎𖠌︎ .... ⛲ℓυғғყ ࿐",
+     "value": "; JOY BOY SER wa.me/+918714504817 ♪☃︎𖠌︎ .... ⛲ℓυғғყ ࿐",
      "required": false 
   }
 },
