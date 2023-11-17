@@ -35,7 +35,7 @@
   
 3.  ***Click [`FORK`](https://github.com/SamPandey001/Secktor-MD/fork)***
  
-4.  ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Secktor-bot)***
+4.  ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/DELTA-MD)***
  
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 
