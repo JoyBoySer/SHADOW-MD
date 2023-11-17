@@ -47,4 +47,4 @@
 
 ## License
 
-The Dark Angel is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
+DELTA-MD is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
