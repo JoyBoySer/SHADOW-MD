@@ -14,7 +14,7 @@
 
 ## Deployment Methods
 
-1. ***Get [`SESSION-ID`](https://delta-md.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION-ID`](https://replit.com/@ForSafty/Baileys-Qr-7?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
  
 2.  ***Get a Mongodb uri from [`Mongodb`](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [`Tutorial`](https://youtu.be/6rnftFl0fAI).***
  
