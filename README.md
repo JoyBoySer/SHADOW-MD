@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=JOY-BOY-SER%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://telegra.ph/file/aadc390f35860b626ac38.jpg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=Joy_Boy_Ser&github=JoyBoySer&)
+![My card name](https://cardivo.vercel.app/api?name=JOY-BOY-SER%20&description=Hi,%20Welcome%20To%20My%20BOT&image=https://telegra.ph/file/aadc390f35860b626ac38.jpg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=Joy_Boy_Ser&github=JoyBoySer&)
 </p>
 </p>
  
