@@ -24,7 +24,6 @@
  
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 
-- Star ⭐ repo if you like this bot.
 
 
 ## OWNER
@@ -39,3 +38,6 @@
 
 - DELTA-MD is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
 -
+----
+
+<b> *Star ⭐ repo if you like this bot.*<\b>
