@@ -18,7 +18,7 @@
 
 
  
-- Install [External Plugins](https://github.com/SuhailTechInfo/Secktor-Plugins)
+- Install [External Plugins](https://github.com/JoyBoySer/DELTA-MD-PLUGINS.git)
 -
 ## Deployment Methods
 ---
