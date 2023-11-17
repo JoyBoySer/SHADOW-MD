@@ -28,7 +28,7 @@
 
 
 ## OWNER
-- [JOY BOY SER](https://github.com/JoyBoySer) for Ideas
+- [JOY BOY SER](https://github.com/JoyBoySer) 
 -
 -
 ## EXTRA PLUGINS
@@ -36,5 +36,6 @@
 -
 -
 ## License
--
+
 - DELTA-MD is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
+-
