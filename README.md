@@ -1,4 +1,4 @@
-  ## ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Secktor-MD)***
+  ## ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/BLADE-MD.git)***
  **Deploy tutorial [`Youtube Video`](https://www.YouTube.com/c/SuhailTechInfo).**
   
 
