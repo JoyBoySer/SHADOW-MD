@@ -13,7 +13,7 @@
 </p>
 
 ## Deployment Methods
----
+
 1. ***Get [`SESSION-ID`](https://delta-md.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
  
 2.  ***Get a Mongodb uri from [`Mongodb`](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [`Tutorial`](https://youtu.be/6rnftFl0fAI).***
@@ -25,14 +25,16 @@
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 
 - Star ⭐ repo if you like this bot.
-- 
-### Thanks To
 
+
+## OWNER
 - [JOY BOY SER](https://github.com/JoyBoySer) for Ideas
 -
+-
+## EXTRA PLUGINS
 - Install [External Plugins](https://github.com/JoyBoySer/DELTA-MD-PLUGINS.git)
 -
 -
 ## License
-
-DELTA-MD is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
+-
+- DELTA-MD is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
