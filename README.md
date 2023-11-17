@@ -16,10 +16,6 @@
   </a>
 </p>
 
-
- 
-- Install [External Plugins](https://github.com/JoyBoySer/DELTA-MD-PLUGINS.git)
--
 ## Deployment Methods
 ---
 1. ***Get [`SESSION-ID`](https://delta-md.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
@@ -37,7 +33,10 @@
 ### Thanks To
 
 - [JOY BOY SER](https://github.com/JoyBoySer) for Ideas
-
+-
+- Install [External Plugins](https://github.com/JoyBoySer/DELTA-MD-PLUGINS.git)
+-
+-
 ## License
 
 DELTA-MD is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
