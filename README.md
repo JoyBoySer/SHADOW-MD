@@ -17,8 +17,6 @@
 1. ***Get [`SESSION-ID`](https://delta-md.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
  
 2.  ***Get a Mongodb uri from [`Mongodb`](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [`Tutorial`](https://youtu.be/6rnftFl0fAI).***
-  
-3.  ***Click [`FORK`](https://github.com/JoyBoySer/DELTA-MD/fork)***
  
 4.  ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/DELTA-MD)***
  
@@ -28,8 +26,8 @@
 
 ## OWNER
 - [JOY BOY SER](https://github.com/JoyBoySer) 
--
--
+- ***Click [`FORK`](https://github.com/JoyBoySer/DELTA-MD/fork)***
+- 
 ## EXTRA PLUGINS
 - Install [External Plugins](https://github.com/JoyBoySer/DELTA-MD-PLUGINS.git)
 -
@@ -40,4 +38,4 @@
 -
 ----
 
-<b> *Star ⭐ repo if you like this bot.*<\b>
+<b> *Star ⭐ Repo If You Like This Bot.*
