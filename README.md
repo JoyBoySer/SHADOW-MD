@@ -2,19 +2,12 @@
 </p>
 </p>
  
-
-
-## ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/DELTA-MD)***
- **Deploy tutorial [`Youtube Video`](https://www.YouTube.com/c/SuhailTechInfo).**
-  
-
-
-  
+ 
  
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bcx1zPjhBFr5mkUoBRy3iD." target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
