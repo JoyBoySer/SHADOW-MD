@@ -29,11 +29,11 @@
 -
 ## Deployment Methods
 ---
-1. ***Get [`SESSION-ID`](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION-ID`](https://delta-md.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
  
 2.  ***Get a Mongodb uri from [`Mongodb`](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [`Tutorial`](https://youtu.be/6rnftFl0fAI).***
   
-3.  ***Click [`FORK`](https://github.com/SamPandey001/Secktor-MD/fork)***
+3.  ***Click [`FORK`](https://github.com/JoyBoySer/DELTA-MD/fork)***
  
 4.  ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/DELTA-MD)***
  
@@ -43,7 +43,7 @@
 - 
 ### Thanks To
 
-- [Sam Pamday](https://github.com/Sampanda001) for Ideas
+- [JOY BOY SER](https://github.com/JoyBoySer) for Ideas
 
 ## License
 
