@@ -5,7 +5,7 @@
     <img alt="X-2.0" height="300" src="https://i.imgur.com/EBmqEoB.jpeg">
   </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=db0000&center=true&width=910&height=100&lines=THIS IS+SHADOW-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOY BOY SER;IF+YOU+LIKE+MY+BOT+STAR+THE+REPO+⭐" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=db0000&center=true&width=910&height=100&lines=THIS IS+DELTA-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOY BOY SER;IF+YOU+LIKE+MY+BOT+STAR+THE+REPO+⭐" alt="Typing SVG" /></a>
   
 
 - [SET UP](#setup)
@@ -18,7 +18,7 @@
   
 # SET UP
 <div align="center">
-<a href="https://github.com/JoyBoySer/SHADOW-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/JoyBoySer/DELTA-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   
   
 
@@ -29,7 +29,7 @@
 ----
  #### Deploy To Heruko
   
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/DELTA-MD"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
   
 -----
 #### Deploy To Railway ❌
@@ -45,7 +45,7 @@
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com/github/JoyBoySer/SHADOW-MD"><img title="SHADW-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit/https://github.com/JoyBoySer/DELTA-MD"><img title="SHADW-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 ---
 # OWNER
@@ -63,6 +63,6 @@ I can't guarantee or can be held responsible if you get blocked or banned by usi
 # LICENSE
 
 
-The SHADOW-MD is made available under the [GPL-3 license](https://github.com/JoyBoySer/SHADOW-MD/blob/main/LICENCE).
+The DELTA-MD is made available under the [GPL-3 license](https://github.com/JoyBoySer/DELTA-MD/blob/main/LICENCE).
 <div> </center></center>
 
