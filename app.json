@@ -1,6 +1,6 @@
 {
   "name": "ᴊᴏʏ ʙᴏʏ ꜱᴇʀ",
-  "description": "ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴅᴇʟᴛᴀ ʙᴏᴛ",
+  "description": "WELCOME TO SHADOW-MD",
   "logo": "https://telegra.ph/file/aadc390f35860b626ac38.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "DELTA-MD", "Delta","Delta-Md","theme bot","multi device"],
   "success_url": "/",
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "ᴋɪᴅ ꜱʟᴀꜱʜᴇʀ"
+      "value": "JoyBoySer"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -75,7 +75,7 @@
      "value": ""
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are DELTA,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+    "description": "Put the theme name you want to use. Avilable themes are SHADOW,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
      "value": "LUFFY"
   },
     "WORKTYPE": {
