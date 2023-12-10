@@ -7,15 +7,15 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
 global.email = 'joyboyser.com'
-global.github = 'https://github.com/JoyBoySer/DELTA-MD.git'
+global.github = 'https://github.com/JoyBoySer/SHADOW-MD.git'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '918714504817'
 global.devs = '918714504817';
-global.website = 'https://github.com/JoyBoySer/DELTA-MD.git' //wa.me/+91000000000000
+global.website = 'https://github.com/JoyBoySer/SHADOW-MD.git' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
-  botname: process.env.BOT_NAME || 'Delta-Md',
+  botname: process.env.BOT_NAME || 'Shadow-Md',
   ownername:process.env.OWNER_NAME || 'JoyBoySer',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
