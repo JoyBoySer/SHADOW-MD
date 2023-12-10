@@ -26,7 +26,7 @@
    
 <a href="https://bit.ly/m/SHADOW-MD"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br></div>
 
-You Guys Need Mongdob Url For Creating Shadow-Md You Can Get Mongdob Url From Here ---->[MONGDOB URL](https://github.com/JoyBoySer/SHADOW-MD.wiki.git)
+You Guys Need Mongdob Url For Creating Shadow-Md You Can Get Mongdob Url From Here ---->[MONGDOB URL](https://github.com/JoyBoySer/SHADOW-MD/wiki#home)
 
 # DEPLOYING METHODE
 ----
