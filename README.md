@@ -17,6 +17,7 @@
 <div align="center">
   
 # SET UP
+
 <div align="center">
 <a href="https://github.com/JoyBoySer/SHADOW-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   
@@ -25,7 +26,7 @@
    
 <a href="https://bit.ly/m/SHADOW-MD"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br></div>
 
-<p> You Guys Need Mongdob Url For Creating Shadow-Md You Can Get Mongdob Url From Here ---->[MONGDOB URL](https://www.mongodb.com/)</p>
+You Guys Need Mongdob Url For Creating Shadow-Md You Can Get Mongdob Url From Here ---->[MONGDOB URL](https://www.mongodb.com/)
 
 # DEPLOYING METHODE
 ----
