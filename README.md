@@ -25,6 +25,8 @@
    
 <a href="https://bit.ly/m/SHADOW-MD"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br></div>
 
+<p> You Guys Need Mongdob Url For Creating Shadow-Md You Can Get Mongdob Url From Here ---->[MONGDOB URL](https://www.mongodb.com/)</p>
+
 # DEPLOYING METHODE
 ----
  #### Deploy To Heruko
